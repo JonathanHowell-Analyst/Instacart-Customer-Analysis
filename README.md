@@ -51,6 +51,28 @@ The key business questions were:
 - Seaborn
 - Bar charts, histograms and line charts
 - Stakeholder-focused visual analysis
+- 
+## Analysis Approach
+
+The project followed an end-to-end analytical workflow:
+
+1. **Data Cleaning & Consistency Checks**  
+   Checked datasets for missing values, duplicates, inconsistent formats and data-quality issues.
+
+2. **Data Integration**  
+   Combined multiple Instacart datasets into a large analytical dataset containing more than 30 million order records.
+
+3. **Feature Engineering**  
+   Created new variables to support analysis, including price ranges, busiest ordering periods and customer behaviour flags.
+
+4. **Customer Segmentation**  
+   Developed rule-based profiles based on loyalty, spending, order frequency, demographics and geographic region.
+
+5. **Exploratory Analysis**  
+   Compared purchasing behaviour across customer groups, products, departments, times and regions.
+
+6. **Business Interpretation**  
+   Translated the analytical findings into customer-targeting and marketing recommendations.
 
 Folder Structure
 Following industry standards, the repository is organized as follows: 
