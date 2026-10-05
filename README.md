@@ -24,20 +24,33 @@ The key business questions were:
 5. Are there meaningful differences between customer demographics and geographic regions?
 6. Which customer segments could represent valuable opportunities for targeted marketing?
 
-Technical Skills Demonstrated
-This analysis was conducted entirely in Python using Jupyter Notebooks. Key steps included:
+## Tools & Technical Skills
 
+**Python & Data Analysis**
+- Python
+- pandas
+- NumPy
+- Jupyter Notebook
 
-Data Wrangling: Merging massive datasets (over 30 million rows) and handling inconsistent data formats.
+**Data Preparation**
+- Data cleaning and consistency checks
+- Missing-value and duplicate analysis
+- Data type optimisation
+- Merging multiple large datasets
+- Removal of personally identifiable information (PII)
 
+**Customer Analytics**
+- Feature engineering
+- Rule-based customer segmentation
+- Loyalty, spending and order-frequency profiling
+- Demographic and regional analysis
+- Aggregation and cross-tabulation
 
-Data Cleaning: Performing consistency checks to identify and resolve missing values and duplicate records.
-
-
-Deriving Variables: Creating custom flags (Loyalty, Spending, and Frequency) to categorize customers based on behavioral patterns. 
-
-
-Visualization: Using libraries like Matplotlib and Seaborn to create charts that explain complex trends to stakeholders. 
+**Data Visualisation**
+- Matplotlib
+- Seaborn
+- Bar charts, histograms and line charts
+- Stakeholder-focused visual analysis
 
 Folder Structure
 Following industry standards, the repository is organized as follows: 
