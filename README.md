@@ -74,6 +74,30 @@ The project followed an end-to-end analytical workflow:
 6. **Business Interpretation**  
    Translated the analytical findings into customer-targeting and marketing recommendations.
 
+   ## Key Findings
+
+### Ordering Behaviour
+
+Customer demand is concentrated around the weekend and during daytime hours, with ordering activity particularly strong between approximately **10:00 and 16:00**.
+
+This suggests that marketing campaigns and operational planning could be aligned with periods of higher customer activity.
+
+### Product Demand
+
+The **Produce** and **Dairy & Eggs** departments generate particularly high order frequency, highlighting the importance of everyday grocery categories in repeat purchasing behaviour.
+
+### Customer Segmentation
+
+Customer profiling revealed meaningful differences in purchasing behaviour across loyalty, spending and order-frequency groups.
+
+The **Mid-Age Affluent** customer profile emerged as a potentially valuable segment for targeted marketing because of its stronger spending characteristics.
+
+### Regional Patterns
+
+Regional analysis showed differences in customer composition across the United States.
+
+The **South** had the highest proportional concentration of high-spending customers within the analysed customer data, suggesting a potential geographic opportunity for more targeted campaigns.
+
 Folder Structure
 Following industry standards, the repository is organized as follows: 
 
