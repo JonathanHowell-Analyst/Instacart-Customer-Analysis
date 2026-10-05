@@ -130,16 +130,12 @@ Important limitations include:
 
 In a real business environment, the analysis could be strengthened with validated customer demographics, campaign-response data and additional behavioural history.
 
-Folder Structure
-Following industry standards, the repository is organized as follows: 
+## Project Structure
 
-01 Project Management: Contains the project brief.
-
-
-02 Data: (Note: Original and cleaned large datasets are excluded for space). 
-
-
-03 Scripts: Numbered Jupyter Notebooks containing the full analysis code. 
-
-
-04 Analysis: Exported visualizations and the final Excel report for the management team.
+| Folder | Purpose |
+|---|---|
+| `01 Project Management` | Original project brief and supporting project documentation |
+| `02 Data` | Original and prepared datasets used during the analysis |
+| `03 Scripts` | Numbered Jupyter Notebooks containing the Python analysis workflow |
+| `04 Analysis` | Visualisations and supporting analytical outputs |
+| `05 Sent to Client` | Final stakeholder-facing Excel report and recommendations |
