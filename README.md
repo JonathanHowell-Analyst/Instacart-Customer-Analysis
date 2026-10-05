@@ -98,6 +98,25 @@ Regional analysis showed differences in customer composition across the United S
 
 The **South** had the highest proportional concentration of high-spending customers within the analysed customer data, suggesting a potential geographic opportunity for more targeted campaigns.
 
+## Business Recommendations
+
+Based on the analysis, Instacart could consider the following actions:
+
+1. **Target high-value customer segments**  
+   Develop tailored campaigns for stronger-spending customer profiles, including the Mid-Age Affluent segment.
+
+2. **Align campaigns with peak ordering periods**  
+   Schedule promotions and customer communications around periods of higher ordering activity, particularly weekends and daytime hours.
+
+3. **Leverage high-frequency product categories**  
+   Use frequently purchased categories such as Produce and Dairy & Eggs for cross-selling, promotions and repeat-purchase campaigns.
+
+4. **Explore regional targeting**  
+   Test geographically targeted campaigns in regions with stronger concentrations of high-spending customers.
+
+5. **Continue refining customer segmentation**  
+   Combine behavioural, demographic and geographic characteristics to create more targeted marketing strategies rather than treating all customers as one group.
+
 Folder Structure
 Following industry standards, the repository is organized as follows: 
 
