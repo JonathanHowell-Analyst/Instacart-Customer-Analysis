@@ -1,5 +1,6 @@
-# AML-Predictive-Modeling-Python
-Python analysis and predictive modeling for Anti-Money Laundering (AML) compliance.
+# Instacart Customer Analysis
+
+### Customer Behaviour, Segmentation and Marketing Analysis Using Python
 Instacart Basket Analysis (Python)
 Project Overview
 In this project, I acted as a Data Analyst for the marketing department of Instacart, an online grocery store that operates via an app. My objective was to perform an initial exploratory analysis of their sales data to uncover patterns and suggest strategies for better customer segmentation.
