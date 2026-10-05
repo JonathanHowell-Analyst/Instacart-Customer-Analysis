@@ -138,3 +138,9 @@ In a real business environment, the analysis could be strengthened with validate
 | `03 Scripts` | Numbered Jupyter Notebooks containing the Python analysis workflow |
 | `04 Analysis` | Visualisations and supporting analytical outputs |
 | `05 Sent to Client` | Final stakeholder-facing Excel report and recommendations |
+
+## Final Deliverable
+
+The final stakeholder-facing report summarises the customer profiling analysis, key findings and marketing recommendations.
+
+[View the Instacart Customer Analysis Report](05%20Sent%20to%20Client/Instacart_Customer_Analysis_Report.xlsx)
