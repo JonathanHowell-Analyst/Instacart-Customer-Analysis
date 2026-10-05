@@ -3,7 +3,13 @@
 ### Customer Behaviour, Segmentation and Marketing Analysis Using Python
 Instacart Basket Analysis (Python)
 Project Overview
-In this project, I acted as a Data Analyst for the marketing department of Instacart, an online grocery store that operates via an app. My objective was to perform an initial exploratory analysis of their sales data to uncover patterns and suggest strategies for better customer segmentation.
+## Project Overview
+
+Instacart is an online grocery platform where customers place orders through a mobile app. In this project, I analysed a large transactional dataset containing more than 30 million order records to understand customer purchasing behaviour and identify opportunities for more targeted marketing.
+
+Using Python and pandas, I cleaned and merged multiple datasets, engineered customer-level variables, analysed ordering and spending patterns, and developed rule-based customer segments based on loyalty, spending behaviour, order frequency and demographics.
+
+The analysis translates these patterns into practical recommendations that could help Instacart better target customer groups and improve marketing decisions.
 
 Key Objectives
 The Instacart management team wanted to answer several critical business questions:
