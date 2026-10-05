@@ -1,8 +1,7 @@
 # Instacart Customer Analysis
 
 ### Customer Behaviour, Segmentation and Marketing Analysis Using Python
-Instacart Basket Analysis (Python)
-Project Overview
+
 ## Project Overview
 
 Instacart is an online grocery platform where customers place orders through a mobile app. In this project, I analysed a large transactional dataset containing more than 30 million order records to understand customer purchasing behaviour and identify opportunities for more targeted marketing.
