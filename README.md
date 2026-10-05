@@ -11,18 +11,18 @@ Using Python and pandas, I cleaned and merged multiple datasets, engineered cust
 
 The analysis translates these patterns into practical recommendations that could help Instacart better target customer groups and improve marketing decisions.
 
-Key Objectives
-The Instacart management team wanted to answer several critical business questions:
+## Key Objectives
 
-What are the busiest days of the week and hours of the day for orders?
+The analysis was designed to help Instacart's marketing team better understand how, when and where customers shop, and how different customer groups behave.
 
-At what times do people spend the most money? 
+The key business questions were:
 
-How can we simplify price range groupings to aid marketing efforts?
-
-Which departments see the highest frequency of product orders?
-
-What is the distribution of users based on brand loyalty, ordering habits, and region? 
+1. When are customers most likely to place orders?
+2. How does customer spending vary across different times and customer groups?
+3. Which product departments generate the highest order frequency?
+4. How do purchasing patterns differ by customer loyalty, spending behaviour and order frequency?
+5. Are there meaningful differences between customer demographics and geographic regions?
+6. Which customer segments could represent valuable opportunities for targeted marketing?
 
 Technical Skills Demonstrated
 This analysis was conducted entirely in Python using Jupyter Notebooks. Key steps included:
