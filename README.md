@@ -117,6 +117,19 @@ Based on the analysis, Instacart could consider the following actions:
 5. **Continue refining customer segmentation**  
    Combine behavioural, demographic and geographic characteristics to create more targeted marketing strategies rather than treating all customers as one group.
 
+   ## Data & Limitations
+
+The project combines Instacart order data with additional customer information provided for the coursework exercise.
+
+Important limitations include:
+
+- The analysis represents historical purchasing behaviour and does not establish causation.
+- Customer segments are rule-based analytical profiles rather than machine-learning predictions.
+- Additional customer demographic information and product pricing used in the exercise were fabricated for educational purposes.
+- Findings should therefore be treated as exploratory business insights rather than production-ready customer targeting decisions.
+
+In a real business environment, the analysis could be strengthened with validated customer demographics, campaign-response data and additional behavioural history.
+
 Folder Structure
 Following industry standards, the repository is organized as follows: 
 
